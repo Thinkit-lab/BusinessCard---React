@@ -633,7 +633,7 @@ function Main() {
             "div",
             { className: "main-content" },
             " ",
-            _react2.default.createElement("img", { className: "header-image", src: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULo95pjUWMmB_e-UmqyaXuqF9YC6KM_XlAw&usqp=CAU" }),
+            _react2.default.createElement("img", { className: "header-image", src: "./images/image.png" }),
             _react2.default.createElement(
                 "h2",
                 null,

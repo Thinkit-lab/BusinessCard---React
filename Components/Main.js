@@ -3,7 +3,7 @@ import React from "react";
 export default function Main(){
     return (
         <div className="main-body">
-           <div className="main-content"> <img className="header-image" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRULo95pjUWMmB_e-UmqyaXuqF9YC6KM_XlAw&usqp=CAU" />
+           <div className="main-content"> <img className="header-image" src = "./images/image.png" />
             <h2>Olukunle Afolabi</h2>
             <p className="job-title">Backend Developer</p>
             <p>afolabikunle2@gmail.com</p>
